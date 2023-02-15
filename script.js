@@ -56,7 +56,6 @@ handleSearch = (query = "Vietnam") => {
             });
 }
 
-handleSearch("ho chi minh");
 
 
 
